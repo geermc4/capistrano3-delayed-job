@@ -22,7 +22,7 @@ Or install it yourself as:
 Require in `Capfile` to use the default task:
 
 ```ruby
-require 'capistrano/delayed_job'
+require 'capistrano/delayed-job'
 ```
 
 You will get the following tasks
